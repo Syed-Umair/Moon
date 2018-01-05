@@ -39,10 +39,10 @@ disqus_shortname:   #username
 #bing-verify:
 email:              ideasyed@protonmail.com
 twitter:            ideasyed
-facebook:           username
-github-url:         https://github.com/syed-umair
+facebook:           ideasyed
+github-url:         syed-umair
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           syed-umair
 #xing:              username
 #instagram:         username
 #lastfm:            username
@@ -50,7 +50,7 @@ github-url:         https://github.com/syed-umair
 medium:            '@ideasyed'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
