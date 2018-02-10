@@ -25,6 +25,7 @@ comments: false
         * Google AppEngine
         * Heroku
     * Java
+
 ## Educational Background
 
     Bachelor of Engineering in Computer Science Engineering
