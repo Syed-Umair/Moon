@@ -9,8 +9,10 @@ comments: false
 # <center>Syed Umair</center>
 
 ## Professional Background
-    Jr. Software Engineer @FULL Creative<br>
+
+    Jr. Software Engineer @FULL Creative
     I build cross-platform desktop applications.
+
 ## Technical Background
 
     * JavaScript
