@@ -14,6 +14,7 @@ comments: false
     It doesn't matter in which environment you develop. Linux, Macintosh or Windows.
     All that matters is you.
     Does it please you or does it not."
+
 ## Professional Background
 
     Jr. Software Engineer @FULL Creative
